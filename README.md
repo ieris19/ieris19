@@ -1,20 +1,20 @@
 # ieris19
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2024--08--20-8ECAE6?style=flat)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2024--08--20-1F6FEB?labelColor=3a3f47&style=flat)
 
 My pseudonym online is **ieris19**, it's a pleasure to have you here.
 I am a Software Engineering Student based in Horsens, Denmark.
 
 ### About me:
 
-![Name](https://img.shields.io/badge/Name-Javier%20Abreu%20Barreto-8ECAE6?style=flat-square)
-![Age](https://img.shields.io/badge/Birthdate-2003/09/09-8ECAE6?style=flat-square)
-![Location](https://img.shields.io/badge/Location-Horsens%2C%20Denmark-8ECAE6?style=flat-square)
+![Name](https://img.shields.io/badge/Name-Javier%20Abreu%20Barreto-1F6FEB?labelColor=3a3f47&style=flat-square)
+![Age](https://img.shields.io/badge/Birthdate-2003/09/09-1F6FEB?labelColor=3a3f47&style=flat-square)
+![Location](https://img.shields.io/badge/Location-Horsens%2C%20Denmark-1F6FEB?labelColor=3a3f47&style=flat-square)
 
 ### Language Proficiency:
-![Spanish](https://img.shields.io/badge/Spanish-Mastery%20%28Native%29-8ECAE6?labelColor=C8102E&style=flat-square)
-![English](https://img.shields.io/badge/English-Mastery%20%28C2%29-8ECAE6?labelColor=C8102E&style=flat-square)
-![Italian](https://img.shields.io/badge/Italian-Threshold%20%28B1%29-8ECAE6?labelColor=C8102E&style=flat-square)
-![Danish](https://img.shields.io/badge/Danish-Waystage%20%28A2%29-8ECAE6?labelColor=C8102E&style=flat-square)
+![Spanish](https://img.shields.io/badge/Spanish-Mastery%20%28Native%29-1F6FEB?labelColor=3a3f47&style=flat-square)
+![English](https://img.shields.io/badge/English-Mastery%20%28C2%29-1F6FEB?labelColor=3a3f47&style=flat-square)
+![Italian](https://img.shields.io/badge/Italian-Threshold%20%28B1%29-1F6FEB?labelColor=3a3f47&style=flat-square)
+![Danish](https://img.shields.io/badge/Danish-Waystage%20%28A2%29-1F6FEB?labelColor=3a3f47&style=flat-square)
 <details>
 <summary>On languages...</summary>
 I am a dedicated language learner, and I would consider myself a polyglot.
@@ -133,10 +133,10 @@ own projects and initiatives.
 Overall, I am very happy with my choice of studying in Denmark and at VIA
 University College. And I feel ready to take on the challenges of the industry.
 
-![Degree: Software Technology Engineering](https://img.shields.io/badge/Degree-Software%20Technology%20Engineering-8ECAE6?style=flat-square)
-![Start Date: September 2021](https://img.shields.io/badge/Start%20Date-September%202021-8ECAE6?style=flat-square)
-![End Date: IN PROGRESS](https://img.shields.io/badge/End%20Date-IN%20PROGRESS-8ECAE6?style=flat-square)
-![Expected Graduation: June 2025](https://img.shields.io/badge/Expected%20Graduation-June%202025-8ECAE6?style=flat-square)
+![Degree: Software Technology Engineering](https://img.shields.io/badge/Degree-Software%20Technology%20Engineering-1F6FEB?style=flat-square)
+![Start Date: September 2021](https://img.shields.io/badge/Start%20Date-September%202021-1F6FEB?style=flat-square)
+![End Date: IN PROGRESS](https://img.shields.io/badge/End%20Date-IN%20PROGRESS-1F6FEB?style=flat-square)
+![Expected Graduation: June 2025](https://img.shields.io/badge/Expected%20Graduation-June%202025-1F6FEB?style=flat-square)
 
 --------------------------------------------------------------------------------
 
@@ -157,11 +157,11 @@ in the insurance sector. I worked on the development of their backend services
 such as handling of [EIAC](https://www.cimaseg.es/mundo-eiac/) files;
 the database backing their services and more.
 
-[![Company](https://img.shields.io/badge/Company-Intrasoft-8ECAE6?style=flat-square)](https://intrasoft.es/)
-[![Position](https://img.shields.io/badge/Position-Intern%20%3D%3E%20Junior%20Developer-8ECAE6?style=flat-square)](https://intrasoft.es/)
-[![Location](https://img.shields.io/badge/Location-Tenerife%2C%20Spain%20%28Remote%29-8ECAE6?style=flat-square)](https://intrasoft.es/)
-[![Start Date](https://img.shields.io/badge/Start%20Date-February%202024-8ECAE6?style=flat-square)](https://intrasoft.es/)
-[![End Date](https://img.shields.io/badge/End%20Date-ONGOING-8ECAE6?style=flat-square)](https://intrasoft.es/)
+[![Company](https://img.shields.io/badge/Company-Intrasoft-1F6FEB?labelColor=3a3f47&style=flat-square)](https://intrasoft.es/)
+[![Position](https://img.shields.io/badge/Position-Intern%20%3D%3E%20Junior%20Developer-1F6FEB?labelColor=3a3f47&style=flat-square)](https://intrasoft.es/)
+[![Location](https://img.shields.io/badge/Location-Tenerife%2C%20Spain%20%28Remote%29-1F6FEB?labelColor=3a3f47&style=flat-square)](https://intrasoft.es/)
+[![Start Date](https://img.shields.io/badge/Start%20Date-February%202024-1F6FEB?labelColor=3a3f47&style=flat-square)](https://intrasoft.es/)
+[![End Date](https://img.shields.io/badge/End%20Date-ONGOING-1F6FEB?labelColor=3a3f47&style=flat-square)](https://intrasoft.es/)
 
 ### Volunteer Work
 During my studies, I was an active part of social initiatives and projects at
@@ -190,7 +190,7 @@ such as Mathematics, Physics and Programming.
 I am always open to any sort of question, feedback or proposition. I am open to 
 work offers, freelance work and volunteer projects.
 
-[![Phone](https://img.shields.io/badge/Phone-(%2B45)%2050%2025%2049%2046-8ECAE6?style=flat-square)](tel:+4550254946)
-[![Email](https://img.shields.io/badge/Email-ieris19%40outlook.com-8ECAE6?style=flat-square)](mailto:ieris19@outlook.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Javier%20Abreu-8ECAE6?style=flat-square&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/javier-abreu-ab647321a/)
-[![Github](https://img.shields.io/badge/Github-ieris19-8ECAE6?style=flat-square&logo=github&logoColor=fff)](https://github.com/ieris19)
+[![Phone](https://img.shields.io/badge/Phone-(%2B45)%2050%2025%2049%2046-1F6FEB?labelColor=3a3f47&style=flat-square)](tel:+4550254946)
+[![Email](https://img.shields.io/badge/Email-ieris19%40outlook.com-1F6FEB?labelColor=3a3f47&style=flat-square)](mailto:ieris19@outlook.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Javier%20Abreu-1F6FEB?labelColor=3a3f47&style=flat-square&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/javier-abreu-ab647321a/)
+[![Github](https://img.shields.io/badge/Github-ieris19-1F6FEB?labelColor=3a3f47&style=flat-square&logo=github&logoColor=fff)](https://github.com/ieris19)
