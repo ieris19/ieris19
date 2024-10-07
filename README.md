@@ -11,10 +11,10 @@ I am a Software Engineering Student based in Horsens, Denmark.
 ![Location](https://img.shields.io/badge/Location-Horsens%2C%20Denmark-1F6FEB?labelColor=3a3f47&style=flat-square)
 
 ### Language Proficiency:
-![Spanish](https://img.shields.io/badge/Spanish-Mastery%20%28Native%29-1F6FEB?labelColor=3a3f47&style=flat-square)
-![English](https://img.shields.io/badge/English-Mastery%20%28C2%29-1F6FEB?labelColor=3a3f47&style=flat-square)
-![Italian](https://img.shields.io/badge/Italian-Threshold%20%28B1%29-1F6FEB?labelColor=3a3f47&style=flat-square)
-![Danish](https://img.shields.io/badge/Danish-Waystage%20%28A2%29-1F6FEB?labelColor=3a3f47&style=flat-square)
+![Spanish](https://img.shields.io/badge/Spanish-Native-1F6FEB?labelColor=3a3f47&style=flat-square)
+![English](https://img.shields.io/badge/English-C2-1F6FEB?labelColor=3a3f47&style=flat-square)
+![Italian](https://img.shields.io/badge/Italian-B1-1F6FEB?labelColor=3a3f47&style=flat-square)
+![Danish](https://img.shields.io/badge/Danish-A2-1F6FEB?labelColor=3a3f47&style=flat-square)
 <details>
 <summary>On languages...</summary>
 I am a dedicated language learner, and I would consider myself a polyglot.
@@ -22,8 +22,9 @@ I have a passion for languages, and I am always looking to learn more, in fact,
 I hope to be able to speak at least 7 languages fluently by the time I'm 40.
 
 The CEFR levels are a good way to measure proficiency in a language, and using
-the definitions provided by [Wikipedia](https://en.wikipedia.org/wiki/Common_European_Framework_of_Reference_for_Languages),
-I have assessed my proficiency. 
+the definitions provided by [Europass](https://europass.europa.eu/system/files/2020-05/CEFR%20self-assessment%20grid%20EN.pdf),
+I have assessed my own proficiency. This self asssesment is backed up only by a
+Cambridge C2 Proficiency test in Enlgish
 
 --------------------------------------------------------------------------------
 
