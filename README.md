@@ -27,9 +27,7 @@ I have assessed my own proficiency. This self asssesment is backed up only by a
 Cambridge C2 Proficiency test in Enlgish
 
 --------------------------------------------------------------------------------
-
 </details>
-
 
 <details>
 <summary>More about me</summary>
@@ -45,6 +43,12 @@ I'm a member of the World Scouting Movement, a global brotherhood that prides
 itself in honor, honesty, loyalty and austerity among other things. Through my 
 studies, I'm becoming a Software Engineer. Along the way, I've developed an 
 interest for volunteering in social work and open-source.
+
+--------------------------------------------------------------------------------
+</details>
+
+<details>
+<summary>About my skills</summary>
 
 ## Skills:
 
