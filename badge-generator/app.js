@@ -20,6 +20,13 @@ function generateBadges(badges) {
         const file = badge.fileName
         delete badge["fileName"]
 
+        // Parse logo to appropriate data URL
+        if (badge.logoSvg) {
+            const svgLogo = fs.readFileSync(`./logo/${badge.logoSvg}`, 'utf8')
+            badge.logoBase64 = `data:image/svg+xml;base64,${btoa(svgLogo)}`
+            delete badge["logoSvg"]
+        }
+
         // Compose the definition with the default styling
         const badgeFormat = {
             ...defaultFormat,

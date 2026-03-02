@@ -83,24 +83,24 @@
     "fileName": "contact/phone",
     "label": "Phone",
     "message": "(+45) 50 25 49 46",
-    "logoBase64": "PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA2NDAgNjQwIj48cGF0aCBkPSJNMjI0LjIgODlDMjE2LjMgNzAuMSAxOTUuNyA2MC4xIDE3Ni4xIDY1LjRMMTcwLjYgNjYuOUMxMDYgODQuNSA1MC44IDE0Ny4xIDY2LjkgMjIzLjNDMTA0IDM5OC4zIDI0MS43IDUzNiA0MTYuNyA1NzMuMUM0OTMgNTg5LjMgNTU1LjUgNTM0IDU3My4xIDQ2OS40TDU3NC42IDQ2My45QzU4MCA0NDQuMiA1NjkuOSA0MjMuNiA1NTEuMSA0MTUuOEw0NTMuOCAzNzUuM0M0MzcuMyAzNjguNCA0MTguMiAzNzMuMiA0MDYuOCAzODcuMUwzNjguMiA0MzQuM0MyOTcuOSAzOTkuNCAyNDEuMyAzNDEgMjA4LjggMjY5LjNMMjUzIDIzMy4zQzI2Ni45IDIyMiAyNzEuNiAyMDIuOSAyNjQuOCAxODYuM0wyMjQuMiA4OXoiLz48L3N2Zz4="
+    "logoSvg": "phone-solid-full.svg"
   },
   {
     "fileName": "contact/email",
     "label": "Email",
     "message": "developer@ieris19.com",
-    "logoBase64": ""
+    "logoSvg": "envelope-solid-full.svg"
   },
   {
     "fileName": "contact/linkedin",
     "label": "LinkedIn",
     "message": "Javier Abreu",
-    "logoBase64": ""
+    "logoSvg": "linkedin-plain.svg"
   },
   {
     "fileName": "contact/git",
     "label": "GitHub",
     "message": "ieris19",
-    "logoBase64": ""
+    "logoSvg": "git-plain.svg"
   }
 ]
