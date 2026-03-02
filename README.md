@@ -3,7 +3,7 @@
 My name is Javier Abreu Barreto (also known as ieris19) and I am a Software
 Engineer based in Herning, Denmark.
 
-![Last Updated: 2026-03-02][badge-last-update]
+![Last Updated][badge-last-update]
 
 ## About me:
 
@@ -126,47 +126,47 @@ contact information below:
 
 <!-- Badges -->
 
-[badge-last-update]: https://img.shields.io/badge/Last%20Updated-2026--03--02-1F6FEB?labelColor=3a3f47&style=for-the-badge
+[badge-last-update]: assets/badges/last-update.svg
 
-[badge-name]: https://img.shields.io/badge/Name-Javier%20Abreu%20Barreto-1F6FEB?labelColor=3a3f47&style=for-the-badge
+[badge-name]: assets/badges/name.svg
 
-[badge-birthday]: https://img.shields.io/badge/Birthdate-2003/09/09-1F6FEB?labelColor=3a3f47&style=for-the-badge
+[badge-birthday]: assets/badges/birthdate.svg
 
-[badge-location]: https://img.shields.io/badge/Location-Herning%2C%20Denmark-1F6FEB?labelColor=3a3f47&style=for-the-badge
+[badge-location]: assets/badges/location.svg
 
-[badge-language-spanish]: https://img.shields.io/badge/Spanish-Native-1F6FEB?labelColor=3a3f47&style=for-the-badge
+[badge-language-spanish]: assets/badges/language/spanish.svg
 
-[badge-language-english]: https://img.shields.io/badge/English-C2-1F6FEB?labelColor=3a3f47&style=for-the-badge
+[badge-language-english]: assets/badges/language/english.svg
 
-[badge-language-italian]: https://img.shields.io/badge/Italian-B1-1F6FEB?labelColor=3a3f47&style=for-the-badge
+[badge-language-italian]: assets/badges/language/italian.svg
 
-[badge-language-danish]: https://img.shields.io/badge/Danish-A2-1F6FEB?labelColor=3a3f47&style=for-the-badge
+[badge-language-danish]: assets/badges/language/danish.svg
 
-[badge-contact-phone]: https://img.shields.io/badge/Phone-(%2B45)%2050%2025%2049%2046-1F6FEB?labelColor=3a3f47&style=for-the-badge
+[badge-contact-phone]: assets/badges/contact/phone.svg
 
-[badge-contact-email]: https://img.shields.io/badge/Email-developer%40ieris19.com-1F6FEB?labelColor=3a3f47&style=for-the-badge
+[badge-contact-email]: assets/badges/contact/email.svg
 
-[badge-contact-linkedin]: https://img.shields.io/badge/LinkedIn-Javier%20Abreu-1F6FEB?labelColor=3a3f47&style=for-the-badge&logo=linkedin&logoColor=white
+[badge-contact-linkedin]: assets/badges/contact/linkedin.svg
 
-[badge-contact-git]: https://img.shields.io/badge/Github-ieris19-1F6FEB?labelColor=3a3f47&style=for-the-badge&logo=github&logoColor=white
+[badge-contact-git]: assets/badges/contact/git.svg
 
 <!-- Education Links -->
 
-[badge-via-degree]: https://img.shields.io/badge/Degree-Software%20Technology%20Engineering-1F6FEB?labelColor=3a3f47&style=for-the-badge
+[badge-via-degree]: assets/badges/via/degree.svg
 
-[badge-via-start]: https://img.shields.io/badge/Start%20Date-September%202021-1F6FEB?labelColor=3a3f47&style=for-the-badge
+[badge-via-start]: assets/badges/via/start.svg
 
-[badge-via-end]: https://img.shields.io/badge/End%20Date-September%202025-1F6FEB?labelColor=3a3f47&style=for-the-badge
+[badge-via-end]: assets/badges/via/end.svg
 
 <!-- Work Links -->
 
-[badge-intrasoft-position]: https://img.shields.io/badge/Position-Junior%20Developer-1F6FEB?labelColor=3a3f47&style=for-the-badge
+[badge-intrasoft-position]: assets/badges/work/intrasoft/position.svg
 
-[badge-intrasoft-location]: https://img.shields.io/badge/Location-Tenerife%2C%20Spain%20%28Remote%29-1F6FEB?labelColor=3a3f47&style=for-the-badge
+[badge-intrasoft-location]: assets/badges/work/intrasoft/location.svg
 
-[badge-intrasoft-start]: https://img.shields.io/badge/Start%20Date-February%202024-1F6FEB?labelColor=3a3f47&style=for-the-badge
+[badge-intrasoft-start]: assets/badges/work/intrasoft/start.svg
 
-[badge-intrasoft-end]: https://img.shields.io/badge/End%20Date-November%202026-1F6FEB?labelColor=3a3f47&style=for-the-badge
+[badge-intrasoft-end]: assets/badges/work/intrasoft/end.svg
 
 [link-intrasoft-web]: https://intrasoft.es/
 
