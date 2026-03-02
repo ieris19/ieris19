@@ -1,2 +1,4 @@
 # JetBrains IDE configuration
 .idea/
+
+**/node_modules/

@@ -1,0 +1,12 @@
+{
+  "name": "profile-badges",
+  "version": "1.0.0",
+  "author": "ieris19",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+  },
+  "dependencies": {
+    "badge-maker": "^5.0.2"
+  }
+}

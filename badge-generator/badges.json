@@ -1,0 +1,106 @@
+[
+  {
+    "fileName": "last-update",
+    "label": "Last Update",
+    "message": "2026-03-02"
+  },
+  {
+    "fileName": "name",
+    "label": "Name",
+    "message": "Javier Abreu Barreto"
+  },
+  {
+    "fileName": "birthdate",
+    "label": "Birthdate",
+    "message": "2003-09-09"
+  },
+  {
+    "fileName": "location",
+    "label": "Location",
+    "message": "Herning"
+  },
+  {
+    "fileName": "language/spanish",
+    "label": "Spanish",
+    "message": "Native"
+  },
+  {
+    "fileName": "language/english",
+    "label": "English",
+    "message": "C2"
+  },
+  {
+    "fileName": "language/italian",
+    "label": "Italian",
+    "message": "B1"
+  },
+  {
+    "fileName": "language/danish",
+    "label": "Danish",
+    "message": "A2"
+  },
+  {
+    "fileName": "via/degree",
+    "label": "Degree",
+    "message": "Software Technology Engineering"
+  },
+  {
+    "fileName": "via/start",
+    "label": "Start",
+    "message": "September 2021"
+  },
+  {
+    "fileName": "via/end",
+    "label": "End",
+    "message": "September 2025"
+  },
+  {
+    "fileName": "work/intrasoft/position",
+    "label": "Position",
+    "message": "Software Engineer"
+  },
+  {
+    "fileName": "work/intrasoft/location",
+    "label": "Location",
+    "message": "Tenerife, Spain"
+  },
+  {
+    "fileName": "work/intrasoft/start",
+    "label": "Start",
+    "message": "February 2024"
+  },
+  {
+    "fileName": "work/intrasoft/end",
+    "label": "End",
+    "message": "November 2026"
+  },
+  {
+    "fileName": "work/intrasoft/position",
+    "label": "Position",
+    "message": "Software Engineer"
+  },
+  {
+    "fileName": "contact/phone",
+    "label": "Phone",
+    "message": "(+45) 50 25 49 46",
+    "logoBase64": "PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA2NDAgNjQwIj48cGF0aCBkPSJNMjI0LjIgODlDMjE2LjMgNzAuMSAxOTUuNyA2MC4xIDE3Ni4xIDY1LjRMMTcwLjYgNjYuOUMxMDYgODQuNSA1MC44IDE0Ny4xIDY2LjkgMjIzLjNDMTA0IDM5OC4zIDI0MS43IDUzNiA0MTYuNyA1NzMuMUM0OTMgNTg5LjMgNTU1LjUgNTM0IDU3My4xIDQ2OS40TDU3NC42IDQ2My45QzU4MCA0NDQuMiA1NjkuOSA0MjMuNiA1NTEuMSA0MTUuOEw0NTMuOCAzNzUuM0M0MzcuMyAzNjguNCA0MTguMiAzNzMuMiA0MDYuOCAzODcuMUwzNjguMiA0MzQuM0MyOTcuOSAzOTkuNCAyNDEuMyAzNDEgMjA4LjggMjY5LjNMMjUzIDIzMy4zQzI2Ni45IDIyMiAyNzEuNiAyMDIuOSAyNjQuOCAxODYuM0wyMjQuMiA4OXoiLz48L3N2Zz4="
+  },
+  {
+    "fileName": "contact/email",
+    "label": "Email",
+    "message": "developer@ieris19.com",
+    "logoBase64": ""
+  },
+  {
+    "fileName": "contact/linkedin",
+    "label": "LinkedIn",
+    "message": "Javier Abreu",
+    "logoBase64": ""
+  },
+  {
+    "fileName": "contact/git",
+    "label": "GitHub",
+    "message": "ieris19",
+    "logoBase64": ""
+  }
+]
