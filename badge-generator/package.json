@@ -5,6 +5,7 @@
   "main": "app.js",
   "type": "module",
   "scripts": {
+    "generate": "node app.js"
   },
   "dependencies": {
     "badge-maker": "^5.0.2"
