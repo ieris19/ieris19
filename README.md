@@ -122,7 +122,7 @@ contact information below:
 
 [contact-linkedin]: https://www.linkedin.com/in/ieris19/
 
-[contact-git]: https://github.com/ieris19
+[contact-git]: https://git.ierislabs.dev/ieris19
 
 <!-- Badges -->
 
