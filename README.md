@@ -34,19 +34,6 @@ and organize events.
 I would describe myself as friendly and outgoing, thriving in collaborative
 environments. I'm always eager to tinker, experiment and find new paths.
 
-## Skills:
-
-The following is a list of badges highlighting my technical knowledge of some
-fields. I have experience using the following technologies:
-
-| Category              | Technologies                             |
-|-----------------------|------------------------------------------|
-| Programming Languages | Java, C#, Go, SQL, Typescript, Python    |
-| Frameworks            | Spring Boot, .NET, React                 |
-| Productivity          | Microsoft Office, Libre Office, Markdown |
-| Tools                 | Git, Bash, Powershell, systemd           |
-| DevOps & Cloud        | Docker, Podman, Google Cloud, CI/CD      |
-
 ## Education:
 
 ### VIA University College
