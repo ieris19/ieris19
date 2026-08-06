@@ -1,8 +1,7 @@
 [
   {
     "fileName": "last-update",
-    "label": "Last Update",
-    "message": "2026-03-02"
+    "label": "Last Update"
   },
   {
     "fileName": "name",
@@ -73,11 +72,6 @@
     "fileName": "work/intrasoft/end",
     "label": "End",
     "message": "November 2026"
-  },
-  {
-    "fileName": "work/intrasoft/position",
-    "label": "Position",
-    "message": "Software Engineer"
   },
   {
     "fileName": "contact/phone",

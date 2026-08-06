@@ -1,5 +1,6 @@
 import { makeBadge } from 'badge-maker'
 import fs from 'fs'
+import { execSync } from 'child_process'
 
 const themes = {
     github: {
@@ -23,9 +24,25 @@ function getTheme(name) {
     return theme
 }
 
+function getLastReadmeUpdate() {
+    const date = execSync('git log -1 --format=%ad --date=short -- ../README.md', { encoding: 'utf8' }).trim()
+    if (!date) {
+        throw new Error('No commits found touching README.md; is history shallow or the file untracked?')
+    }
+    return date
+}
+
 function getBadges() {
     const badgesJSON = fs.readFileSync('badges.json', 'utf8')
-    return  JSON.parse(badgesJSON)
+    const badges = JSON.parse(badgesJSON)
+
+    const lastUpdate = badges.find(badge => badge.fileName === 'last-update')
+    if (lastUpdate) {
+        lastUpdate.message = getLastReadmeUpdate()
+    }
+    console.log("README.md was last updated on: " + lastUpdate.message)
+
+    return badges
 }
 
 function generateBadges(badges, theme) {
@@ -83,8 +100,10 @@ function main() {
     }
 
     const theme = getTheme(themeName)
+
     const badges = getBadges()
     const svgBadges = generateBadges(badges, theme)
+    console.log("Selected theme: " + themeName)
     writeBadges('../assets/badges', svgBadges)
 }
 
