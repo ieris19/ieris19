@@ -1,4 +1,5 @@
-# JetBrains IDE configuration
+# IDE configuration
 .idea/
+.vscode/
 
 **/node_modules/
