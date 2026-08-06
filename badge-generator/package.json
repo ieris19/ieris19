@@ -5,7 +5,8 @@
   "main": "app.js",
   "type": "module",
   "scripts": {
-    "generate": "node app.js"
+    "generate:github": "node app.js github",
+    "generate:forgejo": "node app.js forgejo"
   },
   "dependencies": {
     "badge-maker": "^5.0.2"

@@ -1,10 +1,26 @@
 import { makeBadge } from 'badge-maker'
 import fs from 'fs'
 
-const defaultFormat = {
-    labelColor: '#3a3f47',
-    color: '#1F6FEB',
-    style: 'for-the-badge'
+const themes = {
+    github: {
+        labelColor: 'hsl(210, 10%, 25%)',
+        color: 'hsl(210, 84%, 52%)',
+        style: 'for-the-badge'
+    },
+    forgejo: {
+        labelColor: 'hsl(210, 25%, 12%)',
+        color: 'hsl(20, 96%, 41%)',
+        style: 'for-the-badge',
+    },
+}
+
+function getTheme(name) {
+    const theme = themes[name]
+    if (!theme) {
+        const available = Object.keys(themes).join(', ')
+        throw new Error(`Unknown theme "${name}". Available themes: ${available}`)
+    }
+    return theme
 }
 
 function getBadges() {
@@ -12,7 +28,7 @@ function getBadges() {
     return  JSON.parse(badgesJSON)
 }
 
-function generateBadges(badges) {
+function generateBadges(badges, theme) {
     const svgBadges = []
 
     badges.forEach(badge => {
@@ -29,7 +45,7 @@ function generateBadges(badges) {
 
         // Compose the definition with the default styling
         const badgeFormat = {
-            ...defaultFormat,
+            ...theme,
             ...badge,
         }
 
@@ -60,8 +76,15 @@ function writeBadges(root, badges) {
 }
 
 function main() {
+    const themeName = process.argv[2]
+    if (!themeName) {
+        const available = Object.keys(themes).join(', ')
+        throw new Error(`Usage: node app.js <theme>\nAvailable themes: ${available}`)
+    }
+
+    const theme = getTheme(themeName)
     const badges = getBadges()
-    const svgBadges = generateBadges(badges)
+    const svgBadges = generateBadges(badges, theme)
     writeBadges('../assets/badges', svgBadges)
 }
 

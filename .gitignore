@@ -3,3 +3,6 @@
 .vscode/
 
 **/node_modules/
+
+# Generated per-theme output — lives only on the publish branches
+/assets/badges/
