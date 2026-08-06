@@ -1,104 +1,93 @@
 # ieris19
 
-My name is Javier Abreu Barreto (also known as ieris19) and I am a Software
-Engineer based in Herning, Denmark.
+Hi, I'm **Javier Abreu Barreto**, a Software Engineer based in Denmark 🇩🇰.
 
 ![Last Updated][badge-last-update]
 
-## About me:
+> [!IMPORTANT]
+> Actively open to new opportunities, see [Contact](#contact).
 
-![Name: Javier Abreu Barreto][badge-name]
-![Birthdate: 2003-09-09][badge-birthday]
+## About Me
+
+![Name: Javier Abreu Barreto][badge-name] |
+![Birthdate: 2003-09-09][badge-birthday] |
 ![Location: Herning, Denmark][badge-location]
 
-### Language Proficiency:
+### Language Proficiency
 
-![Spanish: Native][badge-language-spanish]
-![English: C2][badge-language-english]
-![Italian: B1][badge-language-italian]
+![Spanish: Native][badge-language-spanish] |
+![English: C2][badge-language-english] |
+![Italian: B1][badge-language-italian] |
 ![Danish: A2][badge-language-danish]
 
-## Personal Info:
+I grew up in Tenerife, Canary Islands, Spain, where a childhood love of
+tinkering led me from Scratch to building robots: two of which placed 1st and
+2nd regionally at the LEGO World Robot Olympiad.
 
-I grew up in Tenerife, Canary Islands, Spain. As a child I loved tinkering and
-always wanted to learn the hows and whys. My trajectory with coding started by
-learning to use Scratch, and followed with working on two robots that competed
-and ranked 1st and 2nd in the regional LEGO World Robot Olympiad.
+In 2021 I moved to Denmark to study Software Engineering, and got involved in
+student life along the way (more on that
+under [Volunteer Work](#volunteer-work)).
 
-I moved to Denmark at age 18 and began studying Software Engineering at VIA
-University College, where I took a big role in student life from the start,
-eventually becoming chairperson of the Student Council. In this role I helped
-mediate the dialog between the school and students, as well as manage the budget
-and organize events.
+I'm friendly and outgoing, thrive in collaborative environments, and I'm always
+eager to tinker, experiment and find new paths.
 
-I would describe myself as friendly and outgoing, thriving in collaborative
-environments. I'm always eager to tinker, experiment and find new paths.
-
-## Education:
+## Education
 
 ### VIA University College
 
-![Degree: Software Technology Engineering][badge-via-degree]
-![Start Date: September 2021][badge-via-start]
+![Degree: Software Technology Engineering][badge-via-degree] |
+![Start Date: September 2021][badge-via-start] |
 ![End Date: September 2025][badge-via-end]
 
-I graduated from VIA University College in 2025. My degree is in Software
+I graduated from VIA University College in 2025 with a degree in Software
 Technology Engineering.
 
-My education focused on Problem Based Learning, which means for many of the
-subjects, my evaluation included real software projects, often made in small
-groups of students. Through these projects I've developed backend systems and
-dabbled in frontend, database design, testing and project management among many
-other subjects. Notably, through my electives, I've experienced UX design, Game
-Development, SAP systems and Machine Learning.
+The program is built around Problem Based Learning: most subjects were assessed
+through real software projects, usually in small groups. Through these I
+developed backend systems and got hands-on with frontend, database design,
+testing and project management, plus electives in UX design, game development,
+SAP systems and machine learning.
 
-Studying abroad, at an institution that values practical experience so highly, I
-feel ready to take on the challenges of the industry in my future.
+Studying abroad at an institution that puts this much weight on practical
+experience left me feeling prepared to tackle real problems in any environment.
 
-## Work Experience:
+## Work Experience
 
 ### [Intrasoft S.L.][link-intrasoft-web]
 
-![As a Software Engineer][badge-intrasoft-position]
-![Located in Tenerife, Spain][badge-intrasoft-location]
-![Started in February 2024][badge-intrasoft-start]
-![Ended in February 2026][badge-intrasoft-end]
+![As a Software Engineer][badge-intrasoft-position] |
+![Located in Tenerife, Spain][badge-intrasoft-location] |
+![Started in February 2024][badge-intrasoft-start] |
+![Ended in November 2026][badge-intrasoft-end]
 
-During my internship and subsequent position at this company, I was part of the
-ERP product team. We maintained a custom ERP solution for insurance brokers,
-written in C# where I focused on the system's ability to
-handle [EIAC][link-eiac]
-files. As part of this maintenance, I extensively tested the services to ensure
-high data accuracy and helped refactor old code sections to be more compliant
-with modern standards such as the SOLID and DRY principles.
+Starting as an intern and continuing on as a full member of the team, I helped
+maintain a custom C# ERP solution for insurance brokers:
+
+- Focused on the system's handling of [EIAC][link-eiac] files
+- Extensively tested services to ensure high data accuracy
+- Refactored legacy code toward modern standards such as SOLID and DRY
 
 ## Volunteer Work
 
-During my education, I was an active part of social initiatives and projects.
+I've stayed active in social initiatives throughout my education:
 
-During my time in High School, where I helped organize extracurricular events. I
-taught a handful of lessons to several younger classes and tutored numerous
-acquaintances in diverse subjects.
+- **High School**: Helped organize extracurricular events, taught lessons to
+  younger classes, and tutored classmates in a range of subjects.
+- **VIA Student Council**: Quickly joined and rose the ranks from head of the
+  Events Committee to Chairperson, before stepping down in 2024. Organized
+  events and social activities, advocated for student interests, and managed
+  teams of volunteers.
+- **World Scouting Movement**: Ongoing member, in the past I've volunteered 
+  at diverse activities from supporting local events to nature cleanup sessions.
 
-During my time in VIA University College I quickly rose through the ranks of the
-student council. I became head of the Events Committee in my second semester and
-then quickly transitioned into the position of Chairperson for the Student
-Council before stepping down in 2024. At the student council I handled the
-organization of events, parties and other social activities, advocated for
-student's interests and rights and managed several teams of volunteers.
+## Contact
 
-In addition to this, I am a dedicated member of the World Scouting Movement, in
-connection to which I have volunteered in many ways, from helping at municipal
-events to cleaning up nature.
+Feel free to reach out using the information below:
 
-## Contact:
-
-Actively searching for new job opportunities, feel free to reach out using the
-contact information below:
-
-[![Phone][badge-contact-phone]][contact-phone]
+[![Phone][badge-contact-phone]][contact-phone] |
 [![Email][badge-contact-email]][contact-email]
-[![LinkedIn][badge-contact-linkedin]][contact-linkedin]
+
+[![LinkedIn][badge-contact-linkedin]][contact-linkedin] |
 [![Git Profile][badge-contact-git]][contact-git]
 
 <!-- Contact -->
