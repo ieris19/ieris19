@@ -21,7 +21,7 @@ fi
 
 git reset --hard "${BASE_BRANCH}"
 
-(cd badge-generator && npm run "generate:${theme}")
+(cd badge-generator && npm run generate -- "${theme}")
 
 git add -f assets/badges
 git commit -m "Added images for ${theme}"
