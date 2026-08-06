@@ -15,6 +15,12 @@ const themes = {
         logoColor: 'white',
         style: 'for-the-badge',
     },
+    codeberg: {
+        labelColor: 'hsl(210, 25%, 12%)',
+        color: 'hsl(206, 73%, 47%)',
+        logoColor: 'white',
+        style: 'for-the-badge',
+    }
 }
 
 function getTheme(name) {
