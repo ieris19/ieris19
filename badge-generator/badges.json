@@ -77,24 +77,24 @@
     "fileName": "contact/phone",
     "label": "Phone",
     "message": "(+45) 50 25 49 46",
-    "logoSvg": "phone-solid-full.svg"
+    "logoSvg": "font-awesome/phone-solid-full.svg"
   },
   {
     "fileName": "contact/email",
     "label": "Email",
     "message": "developer@ieris19.com",
-    "logoSvg": "envelope-solid-full.svg"
+    "logoSvg": "font-awesome/envelope-solid-full.svg"
   },
   {
     "fileName": "contact/linkedin",
     "label": "LinkedIn",
     "message": "Javier Abreu",
-    "logoSvg": "linkedin-plain.svg"
+    "logoSvg": "devicon/linkedin-plain.svg"
   },
   {
     "fileName": "contact/git",
     "label": "Git",
     "message": "ieris19",
-    "logoSvg": "git-plain.svg"
+    "logoSvg": "devicon/git-plain.svg"
   }
 ]
