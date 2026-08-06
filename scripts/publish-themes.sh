@@ -12,8 +12,9 @@ repo_root=$(git rev-parse --show-toplevel)
 cd "$repo_root"
 
 declare -A themes=(
-    [prime]=forgejo
-    [prime-github]=github
+    [prime/ierislabs]=forgejo
+    [prime/github]=github
+    [prime/codeberg]=codeberg
 )
 
 for branch in "${!themes[@]}"; do

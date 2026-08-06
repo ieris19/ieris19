@@ -6,18 +6,20 @@
 
 set -euo pipefail
 
+BASE_BRANCH='content'
+
 theme="${1:?Usage: $(basename "$0") <theme>}"
 
 repo_root=$(git rev-parse --show-toplevel)
 cd "$repo_root"
 
 branch=$(git rev-parse --abbrev-ref HEAD)
-if [ "$branch" = "content" ]; then
-    echo "Refusing to run on 'content': checkout the publish branch first." >&2
+if [ "$branch" = "${BASE_BRANCH}" ]; then
+    echo "Refusing to run on '${BASE_BRANCH}': checkout the publish branch first." >&2
     exit 1
 fi
 
-git reset --hard content
+git reset --hard "${BASE_BRANCH}"
 
 (cd badge-generator && npm run "generate:${theme}")
 
