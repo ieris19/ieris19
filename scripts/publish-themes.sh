@@ -17,12 +17,18 @@ declare -A themes=(
     [prime/codeberg]=codeberg
 )
 
+# Cache the script content before switching branches
+reset_theme_script=$(mktemp)
+trap 'rm -f "$reset_theme_script"' EXIT
+cat scripts/reset-theme.sh > "$reset_theme_script"
+chmod +x "$reset_theme_script"
+
 for branch in "${!themes[@]}"; do
     theme="${themes[$branch]}"
     echo "== ${branch} (${theme}) =="
 
     git checkout "$branch"
-    scripts/reset-theme.sh "$theme"
+    "$reset_theme_script" "$theme"
 
     changed=$(git diff --name-only content HEAD)
     offending=$(printf '%s\n' "$changed" | grep -v '^assets/badges/' || true)
