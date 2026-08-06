@@ -16,7 +16,7 @@
   {
     "fileName": "location",
     "label": "Location",
-    "message": "Herning"
+    "message": "Denmark \uD83C\uDDE9\uD83C\uDDF0"
   },
   {
     "fileName": "language/spanish",
@@ -89,12 +89,31 @@
     "fileName": "contact/linkedin",
     "label": "LinkedIn",
     "message": "Javier Abreu",
-    "logoSvg": "devicon/linkedin-plain.svg"
+    "logoSvg": "font-awesome/square-linkedin-brands-solid-full.svg"
   },
   {
-    "fileName": "contact/git",
-    "label": "Git",
+    "fileName": "contact/forgejo",
+    "label": "Forgejo",
     "message": "ieris19",
-    "logoSvg": "devicon/git-plain.svg"
+    "logoSvg": "font-awesome/forgejo-brands-solid-full.svg"
+  },
+  {
+    "fileName": "contact/codeberg",
+    "label": "Codeberg",
+    "message": "ieris19",
+    "logoSvg": "codeberg/codeberg-logo_icon_white.svg",
+    "tint": false
+  },
+  {
+    "fileName": "contact/github",
+    "label": "GitHub",
+    "message": "ieris19",
+    "logoSvg": "font-awesome/github-brands-solid-full.svg"
+  },
+  {
+    "fileName": "contact/website",
+    "label": "Web",
+    "message": "ieris19.com",
+    "logoSvg": "font-awesome/globe-solid-full.svg"
   }
 ]

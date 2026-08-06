@@ -9,15 +9,15 @@ Hi, I'm **Javier Abreu Barreto**, a Software Engineer based in Denmark 🇩🇰.
 
 ## About Me
 
-![Name: Javier Abreu Barreto][badge-name] |
-![Birthdate: 2003-09-09][badge-birthday] |
-![Location: Herning, Denmark][badge-location]
+![Name: Javier Abreu Barreto][badge-name]
+![Birthdate: 2003 09 09][badge-birthday]
+![Location: Denmark][badge-location]
 
 ### Language Proficiency
 
-![Spanish: Native][badge-language-spanish] |
-![English: C2][badge-language-english] |
-![Italian: B1][badge-language-italian] |
+![Spanish: Native][badge-language-spanish]
+![English: C2][badge-language-english]
+![Italian: B1][badge-language-italian]
 ![Danish: A2][badge-language-danish]
 
 I grew up in Tenerife, Canary Islands, Spain, where a childhood love of
@@ -35,8 +35,8 @@ eager to tinker, experiment and find new paths.
 
 ### VIA University College
 
-![Degree: Software Technology Engineering][badge-via-degree] |
-![Start Date: September 2021][badge-via-start] |
+![Degree: Software Technology Engineering][badge-via-degree]
+![Start Date: September 2021][badge-via-start]
 ![End Date: September 2025][badge-via-end]
 
 I graduated from VIA University College in 2025 with a degree in Software
@@ -55,9 +55,9 @@ experience left me feeling prepared to tackle real problems in any environment.
 
 ### [Intrasoft S.L.][link-intrasoft-web]
 
-![As a Software Engineer][badge-intrasoft-position] |
-![Located in Tenerife, Spain][badge-intrasoft-location] |
-![Started in February 2024][badge-intrasoft-start] |
+![As a Software Engineer][badge-intrasoft-position]
+![Located in Tenerife, Spain][badge-intrasoft-location]
+![Started in February 2024][badge-intrasoft-start]
 ![Ended in November 2026][badge-intrasoft-end]
 
 Starting as an intern and continuing on as a full member of the team, I helped
@@ -84,11 +84,14 @@ I've stayed active in social initiatives throughout my education:
 
 Feel free to reach out using the information below:
 
-[![Phone][badge-contact-phone]][contact-phone] |
-[![Email][badge-contact-email]][contact-email]
+[![Phone: (+45) 50 25 49 46][badge-contact-phone]][contact-phone]
+[![Email: developer@ieris19.com][badge-contact-email]][contact-email]
+[![LinkedIn: Javier Abreu][badge-contact-linkedin]][contact-linkedin]
+[![Website: ieris19.com][badge-contact-website]][contact-website]
 
-[![LinkedIn][badge-contact-linkedin]][contact-linkedin] |
-[![Git Profile][badge-contact-git]][contact-git]
+[![Forgejo: ieris19][badge-contact-forgejo]][contact-forgejo]
+[![Codeberg: ieris19][badge-contact-codeberg]][contact-codeberg]
+[![GitHub: ieris19][badge-contact-github]][contact-github]
 
 <!-- Contact -->
 
@@ -98,7 +101,13 @@ Feel free to reach out using the information below:
 
 [contact-linkedin]: https://www.linkedin.com/in/ieris19/
 
-[contact-git]: https://git.ierislabs.dev/ieris19
+[contact-forgejo]: https://git.ierislabs.dev/ieris19
+
+[contact-codeberg]: https://codeberg.org/ieris19
+
+[contact-github]: https://github.com/ieris19
+
+[contact-website]: https://ieris19.com
 
 <!-- Badges -->
 
@@ -122,9 +131,15 @@ Feel free to reach out using the information below:
 
 [badge-contact-email]: assets/badges/contact/email.svg
 
+[badge-contact-website]: assets/badges/contact/website.svg
+
 [badge-contact-linkedin]: assets/badges/contact/linkedin.svg
 
-[badge-contact-git]: assets/badges/contact/git.svg
+[badge-contact-forgejo]: assets/badges/contact/forgejo.svg
+
+[badge-contact-codeberg]: assets/badges/contact/codeberg.svg
+
+[badge-contact-github]: assets/badges/contact/github.svg
 
 <!-- Education Links -->
 

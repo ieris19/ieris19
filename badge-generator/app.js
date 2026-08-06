@@ -6,11 +6,13 @@ const themes = {
     github: {
         labelColor: 'hsl(210, 10%, 25%)',
         color: 'hsl(210, 84%, 52%)',
+        logoColor: 'white',
         style: 'for-the-badge'
     },
     forgejo: {
         labelColor: 'hsl(210, 25%, 12%)',
         color: 'hsl(20, 96%, 41%)',
+        logoColor: 'white',
         style: 'for-the-badge',
     },
 }
@@ -45,19 +47,58 @@ function getBadges() {
     return badges
 }
 
+// Tint vendored icons regardless of whatever color they exist in
+function tintLogo(svgText, color) {
+    const stripped = svgText.replace(/\sfill="[^"]*"/g, '')
+    return stripped.replace(/<svg\b/, `<svg fill="${color}"`)
+}
+
+// Font Awesome's brand icons ("*-brands-*") have more internal padding
+// Zoom the viewBox to compensate.
+const BRAND_ICON_ZOOM = 1.3
+
+function zoomViewBox(svgText, zoom) {
+    const match = svgText.match(/viewBox="([\d.\s]+)"/)
+    if (!match) return svgText
+
+    const [minX, minY, width, height] = match[1].trim().split(/\s+/).map(Number)
+    const newWidth = width / zoom
+    const newHeight = height / zoom
+    const newMinX = minX + (width - newWidth) / 2
+    const newMinY = minY + (height - newHeight) / 2
+
+    return svgText.replace(
+        /viewBox="[\d.\s]+"/,
+        `viewBox="${newMinX} ${newMinY} ${newWidth} ${newHeight}"`,
+    )
+}
+
 function generateBadges(badges, theme) {
     const svgBadges = []
+    // The validator complains about unknown properties, extract custom options
+    const logoTint = theme.logoColor
+    delete theme["logoColor"]
 
     badges.forEach(badge => {
-        // The validator will complain so we extract the property for later
         const file = badge.fileName
         delete badge["fileName"]
 
         // Parse logo to appropriate data URL
         if (badge.logoSvg) {
-            const svgLogo = fs.readFileSync(`./logo/${badge.logoSvg}`, 'utf8')
+            let svgLogo = fs.readFileSync(`./logo/${badge.logoSvg}`, 'utf8')
+
+            if (badge.logoSvg.includes('-brands-')) {
+                svgLogo = zoomViewBox(svgLogo, BRAND_ICON_ZOOM)
+            }
+
+            // Some marks forbid recoloring under their brand guidelines
+            if (badge.tint !== false) {
+                svgLogo = tintLogo(svgLogo, logoTint)
+            }
+
             badge.logoBase64 = `data:image/svg+xml;base64,${btoa(svgLogo)}`
             delete badge["logoSvg"]
+            delete badge["tint"]
         }
 
         // Compose the definition with the default styling
