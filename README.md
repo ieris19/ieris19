@@ -58,7 +58,7 @@ experience left me feeling prepared to tackle real problems in any environment.
 ![As a Software Engineer][badge-intrasoft-position]
 ![Located in Tenerife, Spain][badge-intrasoft-location]
 ![Started in February 2024][badge-intrasoft-start]
-![Ended in November 2026][badge-intrasoft-end]
+![Ended in November 2025][badge-intrasoft-end]
 
 Starting as an intern and continuing on as a full member of the team, I helped
 maintain a custom C# ERP solution for insurance brokers:
